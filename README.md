@@ -11,3 +11,9 @@ Try to put a blank line before...
 Test du pull
 
 github projet : <https://github.com/KilianDevOps/TPformation>
+
+# commande git
+1. **git clone** url
+2. **git commit -am** 'message'
+3. **git push**
+4. **git pull**
